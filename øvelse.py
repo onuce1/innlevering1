@@ -21,3 +21,5 @@ def funksjon2():
 
 funksjon2()
 print(eksempel)  # skriver ut: utenfor funksjon
+
+print("meget bra jobbet onat")
